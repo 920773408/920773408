@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Typing effect -->
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);ca h祝您今天愉快!&center=true&size=27)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);cah祝您今天愉快!&center=true&size=27)](https://git.io/typing-svg)
 
   <!-- Coding image -->
   <img src="https://cdn.jsdelivr.net/gh/920773408/920773408/assets/images/coding.gif" />
