@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">big-orange — Code with care. Live with curiosity.</title>
+  <desc id="desc">A cream editorial cover with oversized typography and a hand-drawn orange with green leaves.</desc>
+  <defs>
+    <linearGradient id="fruit" x1="858" y1="128" x2="1038" y2="339" gradientUnits="userSpaceOnUse"><stop stop-color="#ffb24b"/><stop offset="1" stop-color="#ed742c"/></linearGradient>
+    <pattern id="paper" width="12" height="12" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r=".65" fill="#978c75" opacity=".12"/></pattern>
+  </defs>
+  <rect x="1" y="1" width="1198" height="418" rx="20" fill="#faf6ed" stroke="#e8e0d1" stroke-width="2"/>
+  <rect x="2" y="2" width="1196" height="416" rx="19" fill="url(#paper)"/>
+  <text x="58" y="51" fill="#747668" font-family="Segoe UI,Arial,sans-serif" font-size="14" letter-spacing="3">A DEVELOPER'S NOTEBOOK</text>
+  <circle cx="1019" cy="45" r="4" fill="#71937a"/>
+  <text x="1036" y="50" fill="#566b57" font-family="Segoe UI,Arial,sans-serif" font-size="13" letter-spacing="2">HELLO, WORLD</text>
+  <path d="M58 73H1142" stroke="#dcd6c9"/>
+  <text x="58" y="133" fill="#696e62" font-family="Georgia,Times New Roman,serif" font-size="28" font-style="italic">Hi there, I'm</text>
+  <text x="52" y="228" fill="#283b32" font-family="Georgia,Times New Roman,serif" font-size="100" font-weight="700" letter-spacing="-4">big-orange<tspan fill="#e98538">.</tspan></text>
+  <path d="M60 246C174 238 305 239 426 247" stroke="#eaa65e" stroke-width="5" stroke-linecap="round"/>
+  <text x="60" y="291" fill="#566353" font-family="Segoe UI,Arial,sans-serif" font-size="22">Code with care. Live with curiosity.</text>
+  <g transform="translate(792 98)">
+    <ellipse cx="159" cy="240" rx="139" ry="17" fill="#ddd7c8" opacity=".55"/>
+    <path d="M40 79C74 39 128 42 156 51C188 36 237 49 260 85C292 134 280 207 235 236C194 262 118 263 76 235C30 204 9 126 40 79Z" fill="url(#fruit)"/>
+    <path d="M155 53C147 31 156 13 171 1" stroke="#665b3e" stroke-width="7" stroke-linecap="round"/>
+    <path d="M162 29C178-15 236-17 261-1C235 40 192 46 162 29Z" fill="#547b58"/>
+    <path d="M167 28L243 3" stroke="#9bb68a" stroke-width="2" stroke-linecap="round"/>
+    <path d="M152 38C130 4 94 5 79 17C98 44 126 49 152 38Z" fill="#829866"/>
+    <path d="M59 111C52 132 53 151 59 168" stroke="#ffd192" stroke-width="10" stroke-linecap="round" opacity=".65"/>
+    <g fill="#ca6928" opacity=".35"><circle cx="111" cy="104" r="2"/><circle cx="205" cy="93" r="2"/><circle cx="226" cy="162" r="2.5"/><circle cx="98" cy="190" r="2"/><circle cx="171" cy="216" r="2"/><circle cx="160" cy="141" r="2"/><circle cx="121" cy="153" r="1.5"/><circle cx="196" cy="183" r="1.5"/></g>
+    <path d="M3 61L-8 52M16 40L13 26M296 197L307 204" stroke="#b7b69b" stroke-width="2" stroke-linecap="round"/>
+  </g>
+  <path d="M58 345H1142" stroke="#dcd6c9"/>
+  <text x="60" y="383" fill="#697263" font-family="Segoe UI,Arial,sans-serif" font-size="15" letter-spacing="2">C++ / Qt</text>
+  <text x="600" y="383" text-anchor="middle" fill="#697263" font-family="Segoe UI,Arial,sans-serif" font-size="15" letter-spacing="2">MEDICAL IMAGING</text>
+  <text x="1140" y="383" text-anchor="end" fill="#697263" font-family="Segoe UI,Arial,sans-serif" font-size="15" letter-spacing="2">KEEP EXPLORING</text>
+</svg>
